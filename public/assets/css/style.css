@@ -341,7 +341,7 @@ a {
 .main-content {
     margin-left: var(--sidebar-width);
     margin-top: 70px;
-    padding: 20px;
+    padding: 2.5rem;
     transition: all 0.3s ease;
     min-height: calc(100vh - 70px);
 }
